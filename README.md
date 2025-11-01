@@ -10,7 +10,7 @@ This project was developed by:
 * **Aniket Agrawal**
 * **Amit Kumar Shivhare**
 
-We are final year Computer Engineering students from the **Institute of Engineering and Technology (IET), DAVV, Indore**.
+We are final year Information Technology & Computer Engineering students from the **Institute of Engineering and Technology (IET), DAVV, Indore**.
 
 ---
 
